@@ -1,0 +1,1 @@
+# average_atom_EAM_potential
