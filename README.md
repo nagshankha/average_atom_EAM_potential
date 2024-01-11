@@ -1,1 +1,1 @@
-# average_atom_EAM_potential
+# Synthesize Average-atom EAM potential
